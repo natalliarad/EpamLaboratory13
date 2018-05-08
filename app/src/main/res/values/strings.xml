@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EpamLabNoteWithContentProvider</string>
+    <string name="note_add">Add</string>
+    <string name="note_delete">Delete</string>
+    <string name="note_edit">Edit</string>
+    <string name="note_dialog_title">Create bookmark</string>
+    <string name="note_dialog_positive">Add</string>
+    <string name="note_dialog_negative">Cancel</string>
+    <string name="note_text_hint">Add details here...</string>
+    <string name="note_title_hint">Type here what\'s on your mind</string>
+    <string name="details_save">Save</string>
+    <string name="empty_notes">You have no notes yet. Make the first note.</string>
+    <string name="edit">Edit</string>
+    <string name="title_new_note">Title of your new note</string>
+    <string name="type_your_note">Type your note…</string>
+    <string name="change_title">Change title</string>
+    <string name="change_note">Change note</string>
+    <string name="edit_note_button">Edit</string>
+    <string name="delete_note_button">Delete</string>
+    <string name="cancel_note_button">Cancel</string>
+    <string name="dialog_header">Notes</string>
+    <string name="dialog_body">Do you want to delete or edit this note?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add contact</string>
+</resources>
